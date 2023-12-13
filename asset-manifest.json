@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/museo/static/css/main.dcae5d21.css",
+    "main.js": "/museo/static/js/main.90f997b4.js",
+    "static/js/787.10b39be3.chunk.js": "/museo/static/js/787.10b39be3.chunk.js",
+    "static/media/carr3.jpg": "/museo/static/media/carr3.3dd1c8db5a9c8a93dba5.jpg",
+    "static/media/banner.jpg": "/museo/static/media/banner.ae1c89109ce78d0ede15.jpg",
+    "static/media/carr4.jpg": "/museo/static/media/carr4.e5c04c65de654998d3d4.jpg",
+    "static/media/carr5.jpg": "/museo/static/media/carr5.9156bfef7ade4affb064.jpg",
+    "static/media/musef.jpg": "/museo/static/media/musef.fb41a921051381fe466d.jpg",
+    "static/media/museos2.jpg": "/museo/static/media/museos2.99076982becc25cf57ea.jpg",
+    "static/media/carr1.jpg": "/museo/static/media/carr1.ab69a811da5e72320edd.jpg",
+    "static/media/carr2.jpg": "/museo/static/media/carr2.5803c411d5ef4aa2e70f.jpg",
+    "static/media/costumbrista.jpg": "/museo/static/media/costumbrista.41f40ca9d6443efcccea.jpg",
+    "static/media/tambo.jpg": "/museo/static/media/tambo.7e5f2ff183ae3066bac1.jpg",
+    "static/media/logo.svg": "/museo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/museo/index.html",
+    "main.dcae5d21.css.map": "/museo/static/css/main.dcae5d21.css.map",
+    "main.90f997b4.js.map": "/museo/static/js/main.90f997b4.js.map",
+    "787.10b39be3.chunk.js.map": "/museo/static/js/787.10b39be3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcae5d21.css",
+    "static/js/main.90f997b4.js"
+  ]
+}
